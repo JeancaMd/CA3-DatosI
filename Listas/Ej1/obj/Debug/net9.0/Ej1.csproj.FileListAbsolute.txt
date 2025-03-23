@@ -1,0 +1,14 @@
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\bin\Debug\net9.0\Ej1.exe
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\bin\Debug\net9.0\Ej1.deps.json
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\bin\Debug\net9.0\Ej1.runtimeconfig.json
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\bin\Debug\net9.0\Ej1.dll
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\bin\Debug\net9.0\Ej1.pdb
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\obj\Debug\net9.0\Ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\obj\Debug\net9.0\Ej1.AssemblyInfoInputs.cache
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\obj\Debug\net9.0\Ej1.AssemblyInfo.cs
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\obj\Debug\net9.0\Ej1.csproj.CoreCompileInputs.cache
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\obj\Debug\net9.0\Ej1.dll
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\obj\Debug\net9.0\refint\Ej1.dll
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\obj\Debug\net9.0\Ej1.pdb
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\obj\Debug\net9.0\Ej1.genruntimeconfig.cache
+C:\Users\jmdg0\OneDrive\Escritorio\Ej1\Ej1\obj\Debug\net9.0\ref\Ej1.dll
