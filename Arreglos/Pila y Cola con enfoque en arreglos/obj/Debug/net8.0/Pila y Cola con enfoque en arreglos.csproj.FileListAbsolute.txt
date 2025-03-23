@@ -1,0 +1,28 @@
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.AssemblyInfoInputs.cache
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.AssemblyInfo.cs
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.csproj.CoreCompileInputs.cache
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\bin\Debug\net8.0\Pila y Cola con enfoque en arreglos.exe
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\bin\Debug\net8.0\Pila y Cola con enfoque en arreglos.deps.json
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\bin\Debug\net8.0\Pila y Cola con enfoque en arreglos.runtimeconfig.json
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\bin\Debug\net8.0\Pila y Cola con enfoque en arreglos.dll
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\bin\Debug\net8.0\Pila y Cola con enfoque en arreglos.pdb
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.dll
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\refint\Pila y Cola con enfoque en arreglos.dll
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.pdb
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.genruntimeconfig.cache
+C:\Users\vdeag\source\repos\Pila y Cola con enfoque en arreglos\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\ref\Pila y Cola con enfoque en arreglos.dll
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\bin\Debug\net8.0\Pila y Cola con enfoque en arreglos.exe
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\bin\Debug\net8.0\Pila y Cola con enfoque en arreglos.deps.json
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\bin\Debug\net8.0\Pila y Cola con enfoque en arreglos.runtimeconfig.json
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\bin\Debug\net8.0\Pila y Cola con enfoque en arreglos.dll
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\bin\Debug\net8.0\Pila y Cola con enfoque en arreglos.pdb
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.AssemblyInfoInputs.cache
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.AssemblyInfo.cs
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.csproj.CoreCompileInputs.cache
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.dll
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\refint\Pila y Cola con enfoque en arreglos.dll
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.pdb
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\Pila y Cola con enfoque en arreglos.genruntimeconfig.cache
+C:\Users\jeank\Desktop\Arreglos.vs\Pila y Cola con enfoque en arreglos\obj\Debug\net8.0\ref\Pila y Cola con enfoque en arreglos.dll
